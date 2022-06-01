@@ -15,8 +15,8 @@
 <br />
 <br />
 
-- 🔭 I’m currently improving my **coding skill**
+- 🔭 I’m currently improving my **DevOps skill**
 - 🌱 I’m currently learning **Machine Learning Algorithm**
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
-- 💬 Ask me about Python, Data Science, Machine Learining
+- 💬 Ask me about Python, Machine Learining, DevOps, and many more.
 
