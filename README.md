@@ -1,6 +1,9 @@
-<!-- ### Hi👋, I'm Shubham Dubey.
- -->
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shubham!](https://kunal-kushwaha.github.io) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyshubham786&label=Profile%20views&color=0e75b6&style=flat" alt="subeyshubham786" /> </p>
+
+![Banner](banner.png)
+
+
+### Hi there. I'm Shubham 👋
 
 <a href="https://www.linkedin.com/in/shubham-dubey-690445128/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -23,3 +26,13 @@
 ## Talk is cheap, show me the code ✅
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dubeyshubham786&theme=react-dark&hide_border=true&area=true)
+
+## **Skills:**
+
+<h3 align="left">Programming Languages:</h3>
+
+<p align="left">
+
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+</p>
