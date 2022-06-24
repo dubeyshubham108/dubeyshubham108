@@ -1,7 +1,9 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyshubham786&label=Profile%20views&color=0e75b6&style=flat" alt="subeyshubham786" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyshubham786&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyshubham786" /> </p>
 
-![Banner](banner.png)
-
+<!-- ![Banner](banner.png | width=100)
+ -->
+ 
+ <img src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/banner.png" width="1280" height="320"/>
 
 ### Hi there. I'm Shubham 👋
 
