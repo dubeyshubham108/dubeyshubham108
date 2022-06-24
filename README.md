@@ -20,3 +20,6 @@
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - 💬 Ask me about Python, Machine Learining, DevOps, and many more.
 
+## Talk is cheap, show me the code ✅
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dubeyshubham786&theme=react-dark&hide_border=true&area=true)
