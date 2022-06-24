@@ -50,6 +50,9 @@
 <a href="https://medium.com/@dubeyshubham786">
   <img align="left" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<a href="https://www.kaggle.com/dubeyshubham786/account">
+  <img align="left" width="46px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
+</a>
 
 <br />
 <br />
