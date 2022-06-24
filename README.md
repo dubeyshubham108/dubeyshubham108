@@ -3,7 +3,7 @@
 <!-- ![Banner](banner.png | width=100)
  -->
  
- <img src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/banner.png" width="1280" height="320"/>
+ <img src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/banner.png" width="1280" height="240"/>
 
 ### Hi there. I'm Shubham 👋
 
