@@ -2,14 +2,14 @@
  
  <img src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/banner.png" width="1280" height="240"/>
 
-### Hi there. I'm Shubham 👋
-
-![Somasree's github stats](https://github-readme-stats.vercel.app/api?username=dubeyshubham786&count_private=true&show_icons=True&theme=gotham)
- 
+### Hi there. I'm Shubham 👋 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 🔭 I’m currently improving my DevOps skill
 - 💬 Ask me about Python, Machine Learining, DevOps, and many more.
+
+![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=dubeyshubham786&count_private=true&show_icons=True&theme=gotham)
+
 
 ## **Skills:**
 
