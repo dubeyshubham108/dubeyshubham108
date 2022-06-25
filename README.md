@@ -4,7 +4,8 @@
 
 ### Hi there. I'm Shubham 👋
 
-
+![Somasree's github stats](https://github-readme-stats.vercel.app/api?username=dubeyshubham786&count_private=true&show_icons=True&theme=gotham)
+ 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
 - 🔭 I’m currently improving my DevOps skill
@@ -60,5 +61,8 @@
 ## Talk is cheap, show me the code ✅
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=dubeyshubham786&theme=react-dark&hide_border=true&area=true)
+<!-- 
+[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=dubeyshubham786&bg_color=000000&color=00FF00&line=FFFF00&point=964B00&area=true&hide_border=false)](https://https://github.com/soma2000-lang?tab=repositories)
+ -->
 
 
