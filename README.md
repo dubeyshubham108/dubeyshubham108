@@ -3,10 +3,13 @@
  <img src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/banner.png" width="1280" height="240"/>
 
 ### Hi there. I'm Shubham 👋 
-- :zap: I love math, programming, data science, and books
-- 🌱 I’m addicted to learning and growing every day
-- 🔭 I’m currently improving my DevOps skill
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="220" align="right">
+
+- :zap: I love math, programming, data science, and books.
+- 🌱 I’m addicted to learning and growing every day.
+- 🔭 I’m currently improving my DevOps skill.
 - 💬 Ask me about Python, Machine Learining, DevOps, and many more.
+- 📫 You can shoot me an email at dubeyshubham154@gmail.com! I'll try to respond as soon as I can. 
 
 <!---![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=dubeyshubham786&count_private=true&show_icons=True&theme=gotham)-->
 
