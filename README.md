@@ -3,7 +3,7 @@
  <img src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/banner.png" width="1280" height="240"/>
 
 ### Hi there. I'm Shubham 👋 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="400" height="220" align="right">
+<img alt="Night Coding" src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/welcome%20gif.gif" width="400" height="220" align="right">
 
 - :zap: I love math, programming, data science, and books.
 - 🌱 I’m addicted to learning and growing every day.
