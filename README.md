@@ -2,7 +2,8 @@
  
  <img src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/banner.png" width="1280" height="240"/>
 
-### Hi there. I'm Shubham 👋 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Shubham!](https://bio.link/dubeyshubham786) 
+
 <img alt="Night Coding" src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/welcome%20gif.gif" width="400" height="220" align="right">
 
 - :zap: I love math, programming, data science, and books.
