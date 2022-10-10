@@ -1,7 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dubeyshubham786&label=Profile%20views&color=0e75b6&style=flat" alt="dubeyshubham786" /> </p>
  
- <img src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/banner.png" width="1280" height="240"/>
-
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Shubham!](https://bio.link/dubeyshubham786) 
 
 <img alt="Night Coding" src="https://github.com/dubeyshubham786/dubeyshubham786/blob/main/welcome%20gif.gif" width="400" height="220" align="right">
