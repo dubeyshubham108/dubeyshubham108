@@ -58,7 +58,7 @@
 <a href="mailto:dubeyshubham154@gmail.com">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://medium.com/@dubeyshubham786">
+<a href="https://medium.com/@dubeyshubham108">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.kaggle.com/dubeyshubham786/account">
