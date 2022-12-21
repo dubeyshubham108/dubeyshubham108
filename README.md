@@ -65,6 +65,10 @@
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 
+<a href="https://dubeyshubham.hashnode.dev/">
+ <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg"/>
+</a>
+
 <br />
 <br />
 
