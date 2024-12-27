@@ -58,7 +58,7 @@
 <a href="https://www.linkedin.com/in/shubham-dubey-690445128/">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/Dubeyshubham707">
+<a href="https://x.com/Dubeyshubham108">
   <img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:dubeyshubham154@gmail.com">
