@@ -70,6 +70,10 @@
 <a href="https://www.kaggle.com/dubeyshubham786/account">
   <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
+<!-- <a href="https://codeforces.com/profile/dubeyshubham108">
+  <img align="left" width="30px" src="https://ih1.redbubble.net/image.4170502565.0107/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg"/>
+</a> -->
+
 
 <a href="https://dubeyshubham.hashnode.dev/">
  <img align="left" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg"/>
