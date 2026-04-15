@@ -21,7 +21,7 @@
 
 <p align="left">
  
-<p style="white-space: nowrap;">
+<p style="display: flex; gap: 10px; align-items: center;">
   <a href="https://cplusplus.com/doc/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="36" height="36"/>
   </a>
